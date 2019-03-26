@@ -80,6 +80,8 @@ click the "Create" button to define it.
 
 ## Build the servers-vm VM
 
+* Get a recent FreeBSD image from `https://download.freebsd.org/ftp/releases/amd64/amd64/ISO-IMAGES/12.0/FreeBSD-12.0-RELEASE-amd64-disc1.iso`
+
 In the instructions below, you tell VirtualBox that the system will be a Linux Debian system even though
 it will really be a FreeBSD system. This is necessary due to a recent bug in the way FreeBSD is installed
 on VirtualBox VMs.
